@@ -1,0 +1,61 @@
+.Sayimg{
+    margin-left: 500px;
+}
+.Stud{
+    margin-left: 450px;
+}
+.mainDiv{ background-color:#0E198F;
+	color: whitesmoke;
+}
+.first{
+	margin-left:40px;
+	margin-top:10px;
+}
+.date{
+	margin-left:40px;
+	width:60px;
+	margin-top:10px;
+}
+.Gen{
+	margin-left:40px;
+}
+.Fem{
+	margin-left:-300px;
+}
+.Add{
+	margin-left:115px;
+	width: 300px;
+	height: 80px;
+}
+.city{
+	margin-left:115px;
+	margin-top:10px;
+}
+.A{
+	margin-left:115px;
+}
+.B{
+	margin-left:-300px;
+}
+.S{
+	margin-left:-220px;
+}
+.D{
+	margin-left:-110px;
+}
+.O{
+	margin-top: 50px;
+	margin-left: -400px;
+}
+.tx{
+	margin-top: 50px;
+	margin-left: -320px;
+}
+.Courses{
+	margin-top: -20px;
+	margin-left: 200px;
+}
+.submit{
+	margin-top: 10px;
+	text-align: center;
+}
